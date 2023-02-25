@@ -109,13 +109,10 @@ Have worked in all phases of the project life cycle, using a wide variety of too
 <div style="display: flex; justify-content: space-between;">
   <div>
     <div style="display: flex; align-items: center;">
-      <a href="https://t.me/smartdevcode"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">@smartdevcode00</b>
+      <a href="topyiri1113@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">topyiri1113@gmail.com</b>
     </div>
     <div style="display: flex; align-items: center;">
-      <a href="mailto:senior.dev.software@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">senior.dev.software@gmail.com</b>
-    </div>
-    <div style="display: flex; align-items: center;">
-      <a href="/"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">live:.cid.470a1ffbbb9a82f6</b>
+      <a href="/"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">live:.cid.789b5b55a0fe2ade</b>
     </div>
   </div>
 <div>

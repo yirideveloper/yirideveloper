@@ -3,7 +3,7 @@
   <h1 style="position: absolute; color: white; bottom: 15px; transform: translate(-50%, 0); left: 50%">Senior Web Developer</h1>
 </div>
 <p align="center">
-  <a href="https://github.com/smartdevcode"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20blockchain%20Engineer;5+%2B%20years%20of%20hands-on%20experience;10+%2B%20years%20of%20web%20developing%20experience;&center=true&width=800&height=45"></a>
+  <a href="https://github.com/smartdevcode"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20Web%20Engineer;5+%2B%20years%20of%20hands-on%20experience;10+%2B%20years%20of%20web%20developing%20experience;&center=true&width=800&height=45"></a>
 </p>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=justin424.justin424" />
 <h1 align="center"></h1>
@@ -88,15 +88,6 @@ Have worked in all phases of the project life cycle, using a wide variety of too
 </p>
 
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
- 
-### DApps & Online Betting Website
-<br />
-
-### Smart Contract & Crypto
-<br />
-
-### Crypto Trading Platforms & Bots
-<br />
 
 ### AR & VR Web and Mobile application
 <br />
